@@ -1,0 +1,14 @@
+---
+title: "HelloWorld"
+output: pdf_document
+date: "2026-10-30"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a marddown file
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
